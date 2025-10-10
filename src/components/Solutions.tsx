@@ -110,7 +110,7 @@ export const Solutions = () => {
     },
     {
       icon: Code,
-      title: "Custom AI Systems",
+      title: "Custom AI Systemslol",
       description:
         "Solusi AI yang dirancang khusus sesuai kebutuhan unik bisnis Anda—dari chatbot spesial hingga sistem prediktif.",
       features: ["Tailored Solutions", "Scalable Architecture", "Full Support"],
