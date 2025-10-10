@@ -109,17 +109,11 @@ export const Solutions = () => {
       ],
     },
     {
-      icon: Mic,
-      title: "Smart Voice Agent",
+      icon: Code,
+      title: "Custom AI Systems",
       description:
-        "Asisten suara pintar yang bisa berbicara layaknya manusia, memahami konteks pembicaraan, dan merespons secara real-time. Cocok untuk bisnis yang ingin memberikan pengalaman pelanggan modern — dari menjawab pertanyaan, melakukan panggilan otomatis, hingga follow-up prospek tanpa perlu tenaga manusia.",
-      features: [
-        "Natural Human-like Voice Conversations",
-        "Real-Time Response & Context Understanding",
-        "Lead Qualification via Phone Calls",
-        "Automated Call Follow-Ups & Reminders",
-        "Integration with Existing CRM / Customer Database",
-      ],
+        "Solusi AI yang dirancang khusus sesuai kebutuhan unik bisnis Anda—dari chatbot spesial hingga sistem prediktif.",
+      features: ["Tailored Solutions", "Scalable Architecture", "Full Support"],
     },
     {
       icon: Workflow,
@@ -135,11 +129,17 @@ export const Solutions = () => {
       ],
     },
     {
-      icon: Code,
-      title: "Custom AI Systems",
+      icon: Mic,
+      title: "Smart Voice Agent",
       description:
-        "Solusi AI yang dirancang khusus sesuai kebutuhan unik bisnis Anda—dari chatbot spesial hingga sistem prediktif.",
-      features: ["Tailored Solutions", "Scalable Architecture", "Full Support"],
+        "Asisten suara pintar yang bisa berbicara layaknya manusia, memahami konteks pembicaraan, dan merespons secara real-time. Cocok untuk bisnis yang ingin memberikan pengalaman pelanggan modern — dari menjawab pertanyaan, melakukan panggilan otomatis, hingga follow-up prospek tanpa perlu tenaga manusia.",
+      features: [
+        "Natural Human-like Voice Conversations",
+        "Real-Time Response & Context Understanding",
+        "Lead Qualification via Phone Calls",
+        "Automated Call Follow-Ups & Reminders",
+        "Integration with Existing CRM / Customer Database",
+      ],
     },
   ];
 
